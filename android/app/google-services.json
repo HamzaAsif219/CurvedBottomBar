@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282930476149",
+    "project_id": "reactnativeabc",
+    "storage_bucket": "reactnativeabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282930476149:android:bc413ced3e1a52815bf43c",
+        "android_client_info": {
+          "package_name": "com.abc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282930476149-kklcg8a02hlvs2c39s4i1vmdp1inttds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuylvpaCdj_tUmZTjOapCNL6_kcGiwwlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282930476149-kklcg8a02hlvs2c39s4i1vmdp1inttds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-android:0.71.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Desktop/Gift Genius1/app/caches/transforms-3/3c1d580554ecfd6bd43ee805d7ed91d8/transformed/jetified-react-android-0.71.4-debug/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Gift Genius1/app/caches/transforms-3/3c1d580554ecfd6bd43ee805d7ed91d8/transformed/jetified-react-android-0.71.4-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Gift Genius1/app/caches/transforms-3/3c1d580554ecfd6bd43ee805d7ed91d8/transformed/jetified-react-android-0.71.4-debug/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/Gift Genius1/app/caches/transforms-3/3c1d580554ecfd6bd43ee805d7ed91d8/transformed/jetified-react-android-0.71.4-debug/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
